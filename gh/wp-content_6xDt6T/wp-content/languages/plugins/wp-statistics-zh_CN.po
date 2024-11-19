@@ -1,0 +1,1125 @@
+# Translation of Plugins - WP Statistics &#8211; The Most Popular Privacy-Friendly Analytics Plugin - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - WP Statistics &#8211; The Most Popular Privacy-Friendly Analytics Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-26 13:16:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - WP Statistics &#8211; The Most Popular Privacy-Friendly Analytics Plugin - Stable (latest release)\n"
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:154
+#: includes/admin/templates/pages/category-analytics/category-single.php:139
+#: includes/admin/templates/pages/content-analytics/post-type.php:154
+#: includes/admin/templates/pages/content-analytics/single.php:113
+#: includes/class-wp-statistics-meta-box.php:164
+msgid "Top Referring"
+msgstr "最多引用"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:425
+#: src/Service/Admin/VisitorInsights/Views/SingleVisitorView.php:45
+msgid "User"
+msgstr "用户"
+
+#: includes/admin/templates/layout/filters/visitors-filter.php:17
+msgid "Filters"
+msgstr "过滤器"
+
+#: includes/class-wp-statistics-exclusion.php:19
+msgid "Ajax"
+msgstr "Ajax"
+
+#: includes/class-wp-statistics-exclusion.php:30
+msgid "404"
+msgstr "404"
+
+#: includes/class-wp-statistics-exclusion.php:23
+msgid "Broken Link"
+msgstr "失效链接"
+
+#: includes/class-wp-statistics-exclusion.php:21
+msgid "Crawler Detect"
+msgstr "爬虫检测"
+
+#: includes/class-wp-statistics-exclusion.php:20
+msgid "Cron job"
+msgstr "计划任务"
+
+#: includes/class-wp-statistics-exclusion.php:35
+msgid "Honeypot"
+msgstr "Honeypot (蜜罐技术)"
+
+#: includes/admin/templates/settings/advanced.php:25
+msgid "Value"
+msgstr "值"
+
+#: includes/admin/templates/settings/advanced.php:24
+msgid "$_SERVER"
+msgstr "$_SERVER"
+
+#: includes/class-wp-statistics-install.php:780
+msgid "Item processed"
+msgstr "已处理项"
+
+#: includes/class-wp-statistics-install.php:705
+msgid "Upgrade Database"
+msgstr "升级数据库"
+
+#: includes/class-wp-statistics-install.php:778
+msgid "Please don't close the browser window until the database operation was completed."
+msgstr "在完成数据库操作前，请勿关闭浏览器。"
+
+#: includes/class-wp-statistics-pages.php:373
+msgid "Home Page"
+msgstr "主页"
+
+#: includes/class-wp-statistics-pages.php:398
+msgid "Search Page"
+msgstr "搜索页"
+
+#: includes/class-wp-statistics-user-agent.php:70
+msgid "Edge"
+msgstr "Edge"
+
+#: includes/class-wp-statistics-user-agent.php:67
+msgid "Chrome"
+msgstr "Chrome"
+
+#: includes/class-wp-statistics-user-agent.php:68
+msgid "Firefox"
+msgstr "Firefox"
+
+#: includes/class-wp-statistics-user-agent.php:69
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: includes/class-wp-statistics-pages.php:416
+msgid "Post Archive"
+msgstr "文章归档"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-referring.php:57
+msgid "Server IP"
+msgstr "服务器IP"
+
+#: includes/class-wp-statistics-user-agent.php:72
+msgid "Safari"
+msgstr "Safari"
+
+#: includes/class-wp-statistics-user-agent.php:71
+msgid "Opera"
+msgstr "Opera"
+
+#: includes/admin/templates/meta-box/about.php:42
+msgid "Power by VeronaLabs"
+msgstr "由VeronaLabs驱动"
+
+#: includes/admin/class-wp-statistics-admin-template.php:273
+#: includes/admin/templates/pages/geographic/cities.php:46
+#: includes/class-wp-statistics-user-agent.php:95
+#: includes/class-wp-statistics-visitor.php:394
+#: src/Models/VisitorsModel.php:540
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:377
+#: includes/admin/templates/layout/category-analytics/summary.php:17
+#: includes/admin/templates/layout/content-analytics/summary.php:17
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:52
+msgid "Time"
+msgstr "时间"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:53
+msgid "Select item ..."
+msgstr "选择项目 ..."
+
+#: includes/class-wp-statistics-search-engine.php:117
+msgid "Qwant"
+msgstr "Qwant"
+
+#: includes/admin/templates/pages/refer.url.php:35
+msgid "Link"
+msgstr "链接"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:58
+msgid "Year"
+msgstr "年"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:57
+msgid "Month"
+msgstr "月"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:56
+msgid "Week"
+msgstr "周"
+
+#: includes/admin/templates/pages/geographic/cities.php:17
+#: views/components/session-details.php:62
+msgid "City"
+msgstr "城市"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:383
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:65
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:50
+#: includes/class-wp-statistics-shortcode.php:210
+#: views/components/session-details.php:29
+#: views/components/tables/online.php:30
+#: views/components/tables/top-visitors.php:26
+#: views/components/tables/visitors.php:29
+msgid "Referrer"
+msgstr "访问来源"
+
+#: src/Service/Admin/PrivacyAudit/PrivacyAuditController.php:88
+msgid "Privacy"
+msgstr "隐私"
+
+#: includes/admin/templates/settings/display.php:108
+msgid "After Content"
+msgstr "内容后"
+
+#: includes/admin/templates/settings/display.php:107
+msgid "Before Content"
+msgstr "内容前"
+
+#. Author of the plugin
+#: wp-statistics.php
+msgid "VeronaLabs"
+msgstr "VeronaLabs"
+
+#. Author URI of the plugin
+#: wp-statistics.php
+msgid "https://veronalabs.com/"
+msgstr "https://veronalabs.com/"
+
+#: includes/class-wp-statistics-helper.php:921
+msgid "Tags"
+msgstr "标签"
+
+#: includes/admin/templates/header.php:19
+#: includes/admin/templates/header.php:59
+#: includes/admin/templates/layout/menu-settings.php:51
+#: includes/admin/templates/meta-box/about.php:31
+#: includes/admin/templates/plugins.php:3
+#: includes/admin/templates/settings/add-ons/customization.php:24
+#: includes/class-wp-statistics-menus.php:188
+#: includes/class-wp-statistics-menus.php:189
+msgid "Add-Ons"
+msgstr "插件"
+
+#: includes/admin/templates/pages/author-analytics/authors-performance.php:16
+#: src/Service/Admin/AuthorAnalytics/Views/AuthorsView.php:53
+msgid "Authors"
+msgstr "作者"
+
+#: includes/admin/templates/add-ons.php:52
+msgid "Activate Add-On"
+msgstr "激活插件"
+
+#: includes/admin/templates/settings/advanced.php:361
+msgid "Reset"
+msgstr "重置"
+
+#: includes/admin/templates/meta-box/about.php:26
+msgid "Documentation"
+msgstr "文档"
+
+#: src/Service/Admin/AddOnDecorator.php:141
+msgid "Inactive"
+msgstr "未启用"
+
+#: includes/admin/templates/settings/notifications.php:93
+#: includes/class-wp-statistics-widget.php:55
+#: includes/class-wp-statistics-widget.php:272
+msgid "Today's Visitors"
+msgstr "今日访客"
+
+#: includes/admin/templates/pages/tag.php:26
+#: includes/admin/templates/pages/tag.php:29
+msgid "Tag Statistics Summary"
+msgstr "标签统计摘要"
+
+#: includes/admin/templates/pages/category.php:36
+#: includes/admin/templates/pages/category.php:85
+#: includes/admin/templates/pages/tag.php:36
+#: includes/admin/templates/pages/tag.php:85
+msgid "Count"
+msgstr "计数"
+
+#: includes/admin/templates/layout/date.range.php:15
+msgid "Select"
+msgstr "选择"
+
+#: includes/admin/templates/settings/add-ons/customization.php:21
+#: src/Service/Admin/VisitorInsights/Views/TabsView.php:125
+msgid "Top Visitors"
+msgstr "热门访问者"
+
+#: includes/admin/templates/pages/category.php:25
+#: includes/admin/templates/pages/category.php:27
+msgid "Category Statistics Summary"
+msgstr "类别统计摘要"
+
+#: includes/admin/templates/pages/category.php:6
+#: includes/admin/templates/pages/category.php:8
+msgid "Category Statistics Chart"
+msgstr "类别统计图表"
+
+#: includes/class-wp-statistics-search-engine.php:151
+msgctxt "Search Engine"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/class-wp-statistics-user-agent.php:179
+msgctxt "Version"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:353
+msgid "Reload"
+msgstr "刷新"
+
+#: includes/admin/templates/settings/advanced.php:68
+msgid "Loading..."
+msgstr "载入中..."
+
+#: includes/class-wp-statistics-user-agent.php:173
+msgctxt "Browser"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/admin/templates/layout/date.range.php:71
+msgid "Last 30 Days"
+msgstr "过去30天："
+
+#: includes/admin/class-wp-statistics-admin-assets.php:360
+#: includes/admin/class-wp-statistics-admin-assets.php:366
+#: includes/admin/class-wp-statistics-admin-assets.php:403
+#: src/Models/ViewsModel.php:156 src/Models/VisitorsModel.php:232
+msgid "Last 7 days"
+msgstr "过去7天："
+
+#: includes/admin/templates/pages/tag.php:43
+msgid "Number of posts in tag:"
+msgstr "在此标签下的文章数量："
+
+#: includes/admin/templates/pages/tag.php:7
+#: includes/admin/templates/pages/tag.php:10
+msgid "Tag Statistics Chart"
+msgstr "标签统计图表"
+
+#: includes/admin/templates/pages/category.php:43
+msgid "The Number of Posts in Category:"
+msgstr "在此分类中的文章数量："
+
+#: includes/admin/templates/pages/category.php:8
+#: includes/admin/templates/pages/category.php:27
+#: includes/admin/templates/pages/category.php:76
+#: includes/admin/templates/pages/refer.url.php:25
+#: includes/admin/templates/pages/tag.php:7
+#: includes/admin/templates/pages/tag.php:26
+#: includes/admin/templates/pages/tag.php:75
+msgid "Toggle panel: %s"
+msgstr "切换面板：%s"
+
+#: includes/admin/class-wp-statistics-admin-template.php:187
+msgid "Page %1$s of %2$s"
+msgstr "%1$s / %2$s"
+
+#: includes/admin/class-wp-statistics-admin-network.php:72
+#: includes/admin/templates/header.php:37
+#: includes/admin/templates/header.php:62
+#: includes/admin/templates/settings/add-ons/customization.php:26
+#: includes/class-wp-statistics-menus.php:205
+msgid "Optimization"
+msgstr "优化"
+
+#: includes/admin/class-wp-statistics-admin-network.php:51
+msgid "Options"
+msgstr "选项"
+
+#: includes/admin/class-wp-statistics-admin-network.php:61
+#: includes/admin/templates/settings/add-ons/customization.php:11
+msgid "Online"
+msgstr "在线"
+
+#: includes/admin/class-wp-statistics-admin-network.php:63
+#: includes/admin/templates/settings/add-ons/customization.php:14
+#: includes/admin/templates/settings/add-ons/rest-api.php:16
+#: includes/class-wp-statistics-menus.php:174
+msgid "Referrers"
+msgstr "反向链接"
+
+#. Plugin URI of the plugin
+#: wp-statistics.php
+msgid "https://wp-statistics.com/"
+msgstr "https://wp-statistics.com/"
+
+#: includes/admin/class-wp-statistics-admin-network.php:70
+msgid "Top Visitors Today"
+msgstr "今日访客排行"
+
+#: includes/admin/class-wp-statistics-admin-network.php:29
+#: includes/admin/class-wp-statistics-admin-network.php:59
+#: includes/admin/pages/class-wp-statistics-admin-page-overview.php:43
+#: includes/admin/templates/header.php:15
+#: includes/class-wp-statistics-menus.php:168
+msgid "Overview"
+msgstr "数据总览"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:40
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:23
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: includes/admin/templates/settings/add-ons/customization.php:149
+#: src/Service/Admin/SiteHealthInfo.php:67
+msgid "No"
+msgstr "否"
+
+#: includes/admin/templates/settings/add-ons/customization.php:148
+#: src/Service/Admin/SiteHealthInfo.php:67
+msgid "Yes"
+msgstr "是"
+
+#: includes/admin/class-wp-statistics-admin-network.php:64
+#: includes/admin/templates/pages/category-analytics/category-performance.php:147
+#: includes/admin/templates/pages/category-analytics/category-single.php:132
+#: includes/admin/templates/pages/content-analytics/post-type.php:147
+#: includes/admin/templates/pages/content-analytics/single.php:106
+#: includes/admin/templates/settings/add-ons/customization.php:15
+#: includes/admin/templates/settings/add-ons/rest-api.php:17
+#: includes/class-wp-statistics-menus.php:181
+msgid "Search Engines"
+msgstr "搜索引擎"
+
+#: includes/admin/templates/optimization/purging.php:255
+#: includes/admin/templates/settings/advanced.php:339
+msgid "Days"
+msgstr "天"
+
+#: includes/admin/templates/settings/notifications.php:71
+#: views/components/visitor-information.php:49
+msgid "Email"
+msgstr "电子邮件"
+
+#: includes/admin/templates/settings/notifications.php:97
+#: includes/class-wp-statistics-widget.php:69
+#: includes/class-wp-statistics-widget.php:280
+msgid "Yesterday's Visitors"
+msgstr "昨日访客"
+
+#: includes/admin/templates/settings/notifications.php:101
+#: includes/class-wp-statistics-widget.php:104
+#: includes/class-wp-statistics-widget.php:300
+msgid "Total Visitors"
+msgstr "累计访客"
+
+#: includes/class-wp-statistics-shortcode.php:240
+msgid "None"
+msgstr "没有一个"
+
+#. translators: %s: Consent option.
+#: includes/admin/class-wp-statistics-admin-network.php:26
+#: includes/admin/templates/settings/privacy.php:81
+#: includes/admin/templates/settings/privacy.php:93
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:35
+#: includes/class-wp-statistics-menus.php:160
+#: includes/class-wp-statistics-widget.php:15
+msgid "Statistics"
+msgstr "统计"
+
+#: includes/class-wp-statistics-widget.php:125
+#: includes/class-wp-statistics-widget.php:331
+msgid "Total Posts"
+msgstr "总计文章"
+
+#: includes/class-wp-statistics-widget.php:132
+#: includes/class-wp-statistics-widget.php:335
+msgid "Total Pages"
+msgstr "总计页面"
+
+#: includes/class-wp-statistics-widget.php:146
+#: includes/class-wp-statistics-widget.php:343
+msgid "Total Spams"
+msgstr "总计垃圾"
+
+#: includes/class-wp-statistics-widget.php:153
+#: includes/class-wp-statistics-widget.php:347
+msgid "Total Users"
+msgstr "总计用户"
+
+#: includes/class-wp-statistics-shortcode.php:209
+#: includes/class-wp-statistics-widget.php:181
+#: includes/class-wp-statistics-widget.php:363
+msgid "Last Post Date"
+msgstr "最后发表日期"
+
+#: includes/class-wp-statistics-widget.php:255
+msgid "Name"
+msgstr "名称"
+
+#: includes/class-wp-statistics-widget.php:260
+msgid "Items"
+msgstr "条目"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:40
+#: includes/class-wp-statistics-shortcode.php:200
+msgid "Searches"
+msgstr "搜索"
+
+#: includes/class-wp-statistics-shortcode.php:241
+msgid "English"
+msgstr "英语"
+
+#: includes/class-wp-statistics-shortcode.php:247
+msgid "Post/Page ID"
+msgstr "文章/页面ID"
+
+#: includes/class-wp-statistics-shortcode.php:231
+msgid "Number Format"
+msgstr "数字格式"
+
+#: includes/class-wp-statistics-shortcode.php:190
+msgid "Statistic"
+msgstr "统计"
+
+#: includes/class-wp-statistics-shortcode.php:202
+msgid "Page Count"
+msgstr "页面数量"
+
+#: includes/class-wp-statistics-shortcode.php:201
+msgid "Post Count"
+msgstr "文章数量"
+
+#: src/Service/Admin/Devices/Views/TabsView.php:128
+msgid "Languages"
+msgstr "设置语言"
+
+#: includes/class-wp-statistics-shortcode.php:203
+msgid "Comment Count"
+msgstr "评论计数"
+
+#: includes/class-wp-statistics-shortcode.php:224
+msgid "Search Provider"
+msgstr "搜索提供商"
+
+#: includes/class-wp-statistics-shortcode.php:242
+msgid "International"
+msgstr "国际"
+
+#: includes/class-wp-statistics-shortcode.php:227
+msgid "The search provider to get statistics on."
+msgstr "搜索提供商获取统计信息。"
+
+#: includes/class-wp-statistics-shortcode.php:214
+msgid "Time Frame"
+msgstr "大体时间"
+
+#: includes/class-wp-statistics-shortcode.php:208
+#: includes/class-wp-statistics-widget.php:174
+#: includes/class-wp-statistics-widget.php:359
+msgid "User Average"
+msgstr "用户平均"
+
+#: includes/class-wp-statistics-shortcode.php:207
+#: includes/class-wp-statistics-widget.php:167
+#: includes/class-wp-statistics-widget.php:355
+msgid "Comment Average"
+msgstr "评论平均"
+
+#: includes/class-wp-statistics-shortcode.php:204
+msgid "Spam Count"
+msgstr "垃圾邮件数量"
+
+#: includes/admin/templates/settings/advanced.php:317
+msgid "Purge Old Data Daily"
+msgstr "每日清除旧数据"
+
+#: includes/admin/templates/settings/exclusions.php:265
+msgid "Host Exclusions"
+msgstr "主机排除"
+
+#: includes/class-wp-statistics-shortcode.php:206
+#: includes/class-wp-statistics-widget.php:160
+#: includes/class-wp-statistics-widget.php:351
+msgid "Post Average"
+msgstr "文章平均"
+
+#: includes/class-wp-statistics-install.php:360
+msgid "Rate this plugin"
+msgstr "评价此插件"
+
+#: includes/class-wp-statistics-install.php:360
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr "单击此处前往 WordPress.org 评价此插件"
+
+#: includes/admin/class-wp-statistics-admin-network.php:73
+#: includes/admin/templates/header.php:40
+#: includes/admin/templates/header.php:61
+#: includes/class-wp-statistics-install.php:341
+#: includes/class-wp-statistics-menus.php:197
+msgid "Settings"
+msgstr "设置"
+
+#. Plugin Name of the plugin
+#: wp-statistics.php includes/admin/class-wp-statistics-admin-privacy.php:25
+#: includes/class-wp-statistics-meta-box.php:262
+#: src/Service/Admin/AdminManager.php:46
+#: src/Service/Admin/SiteHealthInfo.php:38
+msgid "WP Statistics"
+msgstr "WP Statistics"
+
+#: includes/class-wp-statistics-shortcode.php:250
+msgid "The post/page ID to get page statistics on."
+msgstr "用于获取页面统计信息的文章/页面 ID 。"
+
+#: includes/class-wp-statistics-shortcode.php:217
+msgid "The time frame to get the statistic for, strtotime() (http://php.net/manual/en/datetime.formats.php) will be used to calculate it. Use \"total\" to get all recorded dates."
+msgstr "strtotime() (http://php.net/manual/en/datetime.formats.php) 将用于计算统计数据的时间框架。使用 \"总计\" 获取所有记录日期。"
+
+#: includes/class-wp-statistics-shortcode.php:205
+msgid "User Count"
+msgstr "用户数量"
+
+#: includes/class-wp-statistics-shortcode.php:193
+msgid "Select the statistic you wish to display."
+msgstr "请选择您希望显示的统计数据。"
+
+#: includes/admin/templates/layout/menu-settings.php:6
+msgid "General"
+msgstr "常规设置"
+
+#: includes/admin/templates/settings/notifications.php:73
+msgid "SMS"
+msgstr "SMS"
+
+#: includes/admin/templates/settings/advanced.php:205
+#: includes/admin/templates/settings/exclusions.php:241
+msgid "Next update will be"
+msgstr "下一次更新会在"
+
+#: includes/admin/templates/layout/author-analytics/performance-summary.php:30
+msgid "Active"
+msgstr "启用"
+
+#: includes/admin/templates/settings/advanced.php:155
+msgid "GeoIP Settings"
+msgstr "GeoIP 设置"
+
+#: includes/admin/templates/settings/exclusions.php:112
+msgid "GeoIP Exclusions"
+msgstr "GeoIP 排除"
+
+#: includes/admin/templates/settings/advanced.php:308
+msgid "This will permanently delete data from the database each day, are you sure you want to enable this option?"
+msgstr "此选项将每天定时从数据库永久删除数据，您确定要启用此选项吗？"
+
+#: includes/class-wp-statistics-install.php:358
+msgid "Visit WordPress.org page"
+msgstr "访问 WordPress.org 页面"
+
+#: includes/class-wp-statistics-widget.php:111
+#: includes/class-wp-statistics-widget.php:304
+msgid "Total Page Views"
+msgstr "总浏览量"
+
+#: includes/class-wp-statistics-widget.php:139
+#: includes/class-wp-statistics-widget.php:339
+msgid "Total Comments"
+msgstr "评论总数"
+
+#: includes/admin/templates/settings/add-ons/mini-chart.php:13
+#: includes/admin/templates/settings/add-ons/rest-api.php:20
+msgid "Pages"
+msgstr "页面"
+
+#: includes/class-wp-statistics-install.php:358
+msgid "Click here to visit the plugin on WordPress.org"
+msgstr "点击这里访问位于 WordPress.org 上的插件页面"
+
+#: includes/admin/templates/settings/access-level.php:87
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:365
+#: includes/admin/templates/settings/add-ons/customization.php:187
+#: includes/admin/templates/settings/add-ons/data-plus.php:92
+#: includes/admin/templates/settings/add-ons/mini-chart.php:142
+#: includes/admin/templates/settings/add-ons/realtime-stats.php:44
+#: includes/admin/templates/settings/add-ons/rest-api.php:66
+#: includes/admin/templates/settings/add-ons/widgets.php:74
+#: includes/admin/templates/settings/advanced.php:371
+#: includes/admin/templates/settings/display.php:118
+#: includes/admin/templates/settings/exclusions.php:221
+#: includes/admin/templates/settings/exclusions.php:297
+#: includes/admin/templates/settings/general.php:148
+#: includes/admin/templates/settings/notifications.php:144
+#: includes/admin/templates/settings/privacy.php:154
+msgid "Update"
+msgstr "更新"
+
+#: includes/admin/templates/optimization/export.php:9
+msgid "Export"
+msgstr "导出"
+
+#: includes/admin/templates/optimization/export.php:19
+#: includes/admin/templates/optimization/export.php:38
+#: includes/admin/templates/settings/display.php:106
+#: includes/admin/templates/settings/exclusions.php:99
+#: includes/admin/templates/settings/notifications.php:70
+msgid "Please select"
+msgstr "请选择"
+
+#: includes/admin/templates/optimization/purging.php:245
+msgid "Data"
+msgstr "数据"
+
+#: includes/admin/templates/optimization/resources.php:40
+msgid "Row"
+msgid_plural "Rows"
+msgstr[0] "行"
+
+#: src/Service/Admin/SiteHealthInfo.php:248
+#: src/Service/Admin/SiteHealthInfo.php:253
+#: src/Service/Admin/SiteHealthInfo.php:258
+#: src/Service/Admin/SiteHealthInfo.php:263
+msgid "Installed"
+msgstr "已安装"
+
+#: src/Service/Admin/AddOnDecorator.php:144
+msgid "Not installed"
+msgstr "未安装"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:393
+msgid "User Agent"
+msgstr "用户代理"
+
+#: includes/admin/templates/optimization/resources.php:8
+msgid "Resources/Information"
+msgstr "资源/信息"
+
+#: includes/admin/templates/layout/privacy-audit/privacy-faqs.php:5
+msgid "FAQs"
+msgstr "常见问题解答"
+
+#: includes/admin/templates/settings/exclusions.php:22
+#: includes/admin/templates/settings/exclusions.php:144
+#: includes/admin/templates/settings/exclusions.php:151
+#: includes/admin/templates/settings/exclusions.php:158
+msgid "Exclude"
+msgstr "过滤"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:356
+#: includes/admin/class-wp-statistics-admin-assets.php:382
+#: includes/admin/class-wp-statistics-admin-network.php:62
+#: includes/admin/templates/emails/layout.php:101
+#: includes/admin/templates/layout/category-analytics/summary.php:20
+#: includes/admin/templates/layout/category-analytics/top-countries.php:24
+#: includes/admin/templates/layout/content-analytics/summary.php:20
+#: includes/admin/templates/layout/content-analytics/top-countries.php:24
+#: includes/admin/templates/pages/category-analytics/category-performance.php:33
+#: includes/admin/templates/pages/category-analytics/category-single.php:34
+#: includes/admin/templates/pages/content-analytics/post-type.php:37
+#: includes/admin/templates/pages/content-analytics/single.php:25
+#: includes/admin/templates/pages/country.php:11
+#: includes/admin/templates/settings/add-ons/customization.php:13
+#: includes/admin/templates/settings/add-ons/mini-chart.php:70
+#: includes/admin/templates/settings/add-ons/rest-api.php:19
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:38
+#: includes/class-wp-statistics-shortcode.php:198
+#: src/Service/Admin/MiniChart/MiniChartHelper.php:103
+#: src/Service/Admin/VisitorInsights/Views/TabsView.php:110
+#: views/components/charts/performance.php:20
+#: views/components/tables/content-report.php:25
+msgid "Visitors"
+msgstr "访客"
+
+#: includes/admin/templates/pages/devices/browsers.php:12
+#: includes/admin/templates/pages/refer.url.php:37
+#: views/components/session-details.php:36
+msgid "Browser"
+msgstr "浏览器"
+
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:90
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:102
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:114
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:126
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:138
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:150
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:162
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:174
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:186
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:277
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:300
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:322
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:334
+#: includes/admin/templates/settings/add-ons/customization.php:99
+#: includes/admin/templates/settings/add-ons/data-plus.php:44
+#: includes/admin/templates/settings/add-ons/data-plus.php:57
+#: includes/admin/templates/settings/add-ons/data-plus.php:82
+#: includes/admin/templates/settings/add-ons/rest-api.php:44
+#: includes/admin/templates/settings/add-ons/widgets.php:63
+#: includes/admin/templates/settings/advanced.php:202
+#: includes/admin/templates/settings/advanced.php:240
+#: includes/admin/templates/settings/advanced.php:327
+#: includes/admin/templates/settings/display.php:14
+#: includes/admin/templates/settings/display.php:25
+#: includes/admin/templates/settings/display.php:36
+#: includes/admin/templates/settings/display.php:48
+#: includes/admin/templates/settings/display.php:60
+#: includes/admin/templates/settings/display.php:72
+#: includes/admin/templates/settings/display.php:94
+#: includes/admin/templates/settings/exclusions.php:91
+#: includes/admin/templates/settings/exclusions.php:208
+#: includes/admin/templates/settings/exclusions.php:289
+#: includes/admin/templates/settings/general.php:40
+#: includes/admin/templates/settings/general.php:56
+#: includes/admin/templates/settings/general.php:72
+#: includes/admin/templates/settings/general.php:111
+#: includes/admin/templates/settings/general.php:139
+#: includes/admin/templates/settings/privacy.php:19
+#: includes/admin/templates/settings/privacy.php:33
+#: includes/admin/templates/settings/privacy.php:54
+#: includes/admin/templates/settings/privacy.php:132
+#: includes/admin/templates/settings/privacy.php:146
+#: src/Service/Admin/SiteHealthInfo.php:138
+#: src/Service/Admin/SiteHealthInfo.php:143
+#: src/Service/Admin/SiteHealthInfo.php:158
+msgid "Enable"
+msgstr "启用"
+
+#: includes/admin/templates/settings/exclusions.php:101
+msgid "Create a new Honey Pot page"
+msgstr "创建一个新的 Honey Pot 页面"
+
+#: includes/admin/templates/optimization/updates.php:49
+msgid "This will replace all IP addresses in the database with hash values and cannot be undo, are you sure?"
+msgstr "这将使用哈希值替换数据库中的所有 IP 地址，此操作无法撤消，是否确认执行？"
+
+#: includes/admin/templates/optimization/resources.php:37
+msgid "Number of rows in the %s table"
+msgstr " %s表中的行数"
+
+#: includes/admin/templates/settings/exclusions.php:74
+#: includes/admin/templates/settings/exclusions.php:185
+msgid "Reset to Default"
+msgstr "重置为默认"
+
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:121
+msgid "Search Engine Referrals"
+msgstr "搜索引擎引用次数"
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:133
+#: includes/admin/templates/pages/category-analytics/category-single.php:118
+#: includes/admin/templates/pages/content-analytics/post-type.php:133
+#: includes/admin/templates/pages/content-analytics/single.php:92
+#: includes/admin/templates/settings/add-ons/rest-api.php:18
+msgid "Summary"
+msgstr "摘要"
+
+#: includes/class-wp-statistics-purge.php:183
+msgid "Please select a value over 30 days."
+msgstr "请选择一个大于30天的值"
+
+#. translators: %s: Browser/OS/Model/etc. name.
+#: includes/admin/class-wp-statistics-admin-assets.php:378
+#: includes/admin/class-wp-statistics-admin-network.php:68
+#: includes/admin/templates/pages/category-analytics/category-performance.php:76
+#: includes/admin/templates/pages/category-analytics/category-single.php:77
+#: includes/admin/templates/pages/content-analytics/post-type.php:92
+#: includes/admin/templates/pages/content-analytics/single.php:58
+#: includes/admin/templates/settings/add-ons/rest-api.php:14
+#: src/Service/Admin/Devices/Views/SingleBrowserView.php:40
+#: src/Service/Admin/Devices/Views/TabsView.php:97
+msgid "Browsers"
+msgstr "浏览器"
+
+#: includes/admin/class-wp-statistics-admin-template.php:223
+msgid "10 Days"
+msgstr "10 天"
+
+#: includes/admin/class-wp-statistics-admin-template.php:224
+msgid "20 Days"
+msgstr "20 天"
+
+#: includes/admin/class-wp-statistics-admin-template.php:225
+msgid "30 Days"
+msgstr "30 天"
+
+#: includes/admin/templates/pages/refer.url.php:57
+msgid "Map"
+msgstr "地图"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:384
+#: views/components/tables/recent-events.php:24
+#: views/components/tables/recent-views.php:18
+#: views/pages/visitor-insights/views.php:29
+msgid "Page"
+msgstr "页面"
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:555
+#: includes/admin/class-wp-statistics-admin-template.php:236
+#: includes/admin/templates/layout/filters/author-filter.php:6
+#: includes/admin/templates/layout/filters/author-filter.php:15
+#: includes/admin/templates/layout/filters/page-filter.php:7
+#: includes/admin/templates/layout/filters/post-types-filter.php:14
+#: includes/admin/templates/layout/filters/post-types-filter.php:16
+#: includes/admin/templates/layout/filters/query-params-filter.php:29
+#: includes/admin/templates/layout/filters/query-params-filter.php:34
+#: includes/admin/templates/pages/refer.url.php:7
+#: includes/class-wp-statistics-widget.php:326
+msgid "All"
+msgstr "全部"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:354
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:36
+#: includes/class-wp-statistics-shortcode.php:196
+#: includes/class-wp-statistics-widget.php:41
+#: includes/class-wp-statistics-widget.php:264
+msgid "Online Users"
+msgstr "在线用户"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:374
+#: includes/admin/templates/layout/author-analytics/performance-summary.php:24
+#: includes/admin/templates/layout/author-analytics/performance-summary.php:53
+#: includes/admin/templates/layout/category-analytics/overview-card.php:13
+#: includes/admin/templates/layout/category-analytics/overview-card.php:27
+#: includes/admin/templates/layout/content-analytics/overview-card.php:13
+#: includes/admin/templates/layout/content-analytics/overview-card.php:27
+#: includes/admin/templates/pages/category-analytics/category-performance.php:16
+#: includes/admin/templates/pages/category-analytics/category-single.php:17
+#: includes/admin/templates/pages/content-analytics/post-type.php:22
+#: includes/admin/templates/pages/content-analytics/single.php:18
+#: includes/admin/templates/pages/content-analytics/single.php:28
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:59
+#: src/Models/VisitorsModel.php:969 src/Models/VisitorsModel.php:984
+msgid "Total"
+msgstr "总计"
+
+#: includes/admin/templates/layout/author-analytics/publishing-overview.php:27
+msgid "More"
+msgstr "更多"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:134
+#: includes/admin/class-wp-statistics-admin-assets.php:358
+#: includes/admin/class-wp-statistics-admin-assets.php:397
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:54
+#: src/Models/ViewsModel.php:150 src/Models/VisitorsModel.php:226
+msgid "Today"
+msgstr "今天"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-summary.php:285
+msgid "(Adjustment)"
+msgstr "（调整）"
+
+#: includes/admin/templates/settings/add-ons/rest-api.php:15
+msgid "Hits"
+msgstr "点击数"
+
+#: includes/admin/class-wp-statistics-admin-network.php:71
+#: includes/admin/templates/pages/exclusions.php:22
+#: includes/admin/templates/settings/add-ons/customization.php:27
+#: includes/class-wp-statistics-menus.php:214
+#: includes/class-wp-statistics-meta-box.php:292
+msgid "Exclusions"
+msgstr "过滤"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:436
+msgid "Close"
+msgstr "关闭"
+
+#: src/Service/Admin/PageInsights/Views/TabsView.php:123
+msgid "404 Pages"
+msgstr "404页面"
+
+#: includes/class-wp-statistics-search-engine.php:47
+msgid "Baidu"
+msgstr "百度"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:376
+#: includes/admin/templates/pages/refer.url.php:39
+#: views/components/tables/recent-events.php:9
+#: views/components/tables/recent-views.php:15
+msgid "Date"
+msgstr "日期"
+
+#: includes/admin/templates/pages/exclusions.php:31
+msgid "All Time Total:"
+msgstr "所有时间共计"
+
+#: includes/class-wp-statistics-exclusion.php:28
+msgid "Referrer Spam"
+msgstr "推荐的垃圾信息"
+
+#: includes/class-wp-statistics-exclusion.php:33
+msgid "Host name"
+msgstr "主机名"
+
+#: includes/class-wp-statistics-exclusion.php:32
+msgid "User Role"
+msgstr "用户角色"
+
+#: includes/admin/templates/pages/exclusions.php:26
+msgid "Chart Total:"
+msgstr "图表总计"
+
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:157
+msgid "Top Pages"
+msgstr "页面排行"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:419
+#: src/Service/Admin/Devices/Views/SingleBrowserView.php:42
+#: src/Service/Admin/SiteHealthInfo.php:45
+msgid "Version"
+msgstr "版本"
+
+#: src/Service/Admin/VisitorInsights/Views/SingleVisitorView.php:49
+msgid "IP"
+msgstr "IP"
+
+#: includes/class-wp-statistics-exclusion.php:26
+#: includes/class-wp-statistics-pages.php:395
+msgid "Login Page"
+msgstr "登录页面"
+
+#: includes/class-wp-statistics-exclusion.php:31
+msgid "Excluded URL"
+msgstr "排除的网址"
+
+#: includes/class-wp-statistics-exclusion.php:27
+msgid "Admin Page"
+msgstr "管理员页面 "
+
+#: includes/class-wp-statistics-exclusion.php:25
+msgid "Self Referral"
+msgstr "自我介绍 "
+
+#: includes/admin/class-wp-statistics-admin-assets.php:359
+#: includes/admin/class-wp-statistics-admin-assets.php:398
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:55
+#: src/Models/ViewsModel.php:151 src/Models/VisitorsModel.php:227
+msgid "Yesterday"
+msgstr "昨天"
+
+#: src/Models/VisitorsModel.php:614
+msgid "Other"
+msgstr "其它"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:381
+#: includes/admin/templates/layout/category-analytics/top-countries.php:21
+#: includes/admin/templates/layout/content-analytics/top-countries.php:21
+#: includes/admin/templates/pages/country.php:10
+#: includes/admin/templates/pages/geographic/cities.php:23
+#: includes/admin/templates/pages/geographic/countries.php:17
+#: includes/admin/templates/pages/geographic/europe.php:16
+#: includes/admin/templates/pages/refer.url.php:38
+#: views/components/session-details.php:52
+msgid "Country"
+msgstr "国家/地区"
+
+#: includes/class-wp-statistics-exclusion.php:36
+msgid "Robot threshold"
+msgstr "机器人阈值"
+
+#: includes/class-wp-statistics-exclusion.php:34
+msgid "GeoIP"
+msgstr "GeoIP"
+
+#: includes/class-wp-statistics-exclusion.php:24
+msgid "IP Match"
+msgstr "IP 匹配"
+
+#: includes/class-wp-statistics-exclusion.php:22
+msgid "Robot"
+msgstr "机器人"
+
+#: includes/admin/class-wp-statistics-admin-template.php:230
+msgid "1 Year"
+msgstr "1 年"
+
+#: includes/admin/class-wp-statistics-admin-template.php:229
+msgid "9 Months"
+msgstr "9 个月"
+
+#: includes/admin/class-wp-statistics-admin-template.php:228
+msgid "6 Months"
+msgstr "6 个月"
+
+#: includes/admin/class-wp-statistics-admin-template.php:227
+msgid "3 Months"
+msgstr "3 个月"
+
+#: includes/admin/class-wp-statistics-admin-template.php:226
+msgid "2 Months"
+msgstr "2 个月"
+
+#: includes/class-wp-statistics-search-engine.php:107
+#: includes/class-wp-statistics-user-agent.php:77
+msgid "Yandex"
+msgstr "Yandex"
+
+#: includes/class-wp-statistics-search-engine.php:97
+msgid "Yahoo!"
+msgstr "Yahoo!"
+
+#: includes/class-wp-statistics-search-engine.php:87
+msgid "Google"
+msgstr "Google"
+
+#: includes/class-wp-statistics-search-engine.php:77
+msgid "DuckDuckGo"
+msgstr "DuckDuckGo"
+
+#: includes/class-wp-statistics-search-engine.php:67
+msgid "clearch.org"
+msgstr "clearch.org"
+
+#: includes/class-wp-statistics-search-engine.php:57
+msgid "Bing"
+msgstr "Bing"
+
+#: includes/class-wp-statistics-search-engine.php:37
+msgid "Ask.com"
+msgstr "Ask.com"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-post-summary.php:32
+#: includes/admin/meta-box/wp-statistics-meta-box-post-summary.php:42
+#: includes/admin/meta-box/wp-statistics-meta-box-post.php:28
+msgid "This post is not yet published."
+msgstr "这篇文章还未发表。"
+
+#: includes/admin/templates/pages/devices/browsers.php:15
+#: includes/admin/templates/pages/devices/categories.php:15
+#: includes/admin/templates/pages/devices/models.php:15
+#: includes/admin/templates/pages/devices/platforms.php:15
+#: includes/admin/templates/pages/devices/single-browser.php:15
+#: includes/admin/templates/pages/geographic/cities.php:26
+#: includes/admin/templates/pages/geographic/countries.php:20
+#: includes/admin/templates/pages/geographic/europe.php:19
+#: includes/admin/templates/pages/geographic/regions.php:19
+#: includes/admin/templates/pages/geographic/us.php:19
+msgid "Visitor Count"
+msgstr "访客人数"
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:140
+#: includes/admin/templates/pages/category-analytics/category-single.php:125
+#: includes/admin/templates/pages/content-analytics/post-type.php:140
+#: includes/admin/templates/pages/content-analytics/single.php:99
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:169
+#: includes/class-wp-statistics-meta-box.php:150
+msgid "Top Countries"
+msgstr "前几名的国家/地区"
+
+#: src/Service/Admin/Geographic/Views/TabsView.php:80
+msgid "Countries"
+msgstr "国家/地区"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:375
+msgid "Daily Total"
+msgstr "今日总计"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-summary.php:284
+msgid "Current Time and Date"
+msgstr "当前时间和日期"
